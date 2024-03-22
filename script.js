@@ -1,7 +1,7 @@
-// function update() { 
-//     console.log("hello")
+ function update() { 
+    console.log("hello")
     
-// }
+}
 function update() { 
     console.log("updating");
 
